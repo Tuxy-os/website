@@ -204,7 +204,7 @@ export default function Home() {
       "Desktop: KDE Plasma  Init: Systemd",
       "",
       "echo $PHILOSOPHY",
-      "Linux, a but your way.",
+      "Linux, but your way.",
       "",
     ];
     let line = 0;
