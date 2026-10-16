@@ -13,7 +13,7 @@ const features = [
 
 const editions = [
   {
-    name: "TUXY FREE",
+    name: "TUXY FREEg",
     price: "$0",
     description: "Fully usable Tuxy OS.",
     items: ["Full system", "Wayland & KDE Plasma", "Community support"],
