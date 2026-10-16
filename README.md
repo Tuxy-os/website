@@ -2,13 +2,11 @@
 
 The official website for **Tuxy OS**, a Linux operating system project.
 
-🌐 **Website:** [tuxy-os.com](https://tuxy-os.com)
+**Website:** [tuxy-os.com](https://tuxy-os.com)
 
 ## About
 
-This repository contains the source code for the official Tuxy OS website.
-
-It serves as the central place for information about the project, its development, releases, and future plans.
+This repository contains the source code for the official Tuxy OS website. It serves as the central place for information about the project, its development, releases, and future plans.
 
 ## Development
 
@@ -16,7 +14,7 @@ Development instructions will be documented here as the website's technology sta
 
 ## Configuration
 
-Environment-specific configuration should be stored outside version control.
+Environment-specific configuration must be stored outside version control.
 
 - Keep secrets and credentials in Cloudflare Secrets or the appropriate secure environment configuration.
 - Never commit `.env` files containing private values.
@@ -24,9 +22,7 @@ Environment-specific configuration should be stored outside version control.
 
 ## Deployment
 
-The website is intended to be deployed through Cloudflare infrastructure.
-
-Deployment procedures and CI/CD automation will be documented once configured.
+The website is deployed through Cloudflare infrastructure. Deployment procedures and CI/CD automation will be documented once configured.
 
 ## Security
 
@@ -40,4 +36,8 @@ The website is under active development. Features, content, and infrastructure m
 
 ## License
 
-The licensing terms for this repository have not yet been specified. All rights are reserved unless otherwise stated.
+This repository is **Source-Available**, not Open Source.
+
+The project is licensed under the **PolyForm Strict License 1.0.0**. You are free to view, download, and test this codebase for personal, hobbistic, and non-commercial purposes. However, you are strictly prohibited from modifying the code, creating derivative works, or redistributing it without prior permission from the copyright holder.
+
+Copyright © 2026 Mikołaj Rokita (Mikx). All rights reserved.
